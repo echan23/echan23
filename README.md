@@ -4,7 +4,7 @@ I'm a Computer Science major at the University of Maryland, College Park, passio
 
 ---
 
-## 🔭 Current Projects
+## 🔭 My Favorite Projects
 
 - **TerpBites.net**  
   A full-stack web app providing real-time nutritional data from UMD Dining Services.  
@@ -23,10 +23,9 @@ I'm a Computer Science major at the University of Maryland, College Park, passio
 
 ## 🌱 Currently Learning
 
-- Distributed Systems & Concurrency (via system-level C++ projects)
-- Advanced AWS (ECS, IAM, and Amplify Gen 2)
-- Flutter & Mobile Development
-- Self-Supervised Learning (e.g., SimCLR, BYOL) for image & text embeddings
+🧠 **LLMOps & RAG Systems** — fine-tuning, orchestrating, and evaluating LLMs with `PyTorch`, `LangChain`, and vector stores  
+🕸️ **Distributed Systems** — building scalable infrastructure 
+🧬 **Neural Indexing & Retrieval** — leveraging embedding models and vector search for smarter queries  
 
 ---
 
