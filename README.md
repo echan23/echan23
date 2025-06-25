@@ -24,7 +24,7 @@ I'm a Computer Science major at the University of Maryland, College Park, passio
 ## 🌱 Currently Learning
 
 🧠 **LLMOps & RAG Systems** — fine-tuning, orchestrating, and evaluating LLMs with `PyTorch`, `LangChain`, and vector stores  
-🕸️ **Distributed Systems** — building scalable infrastructure 
+🕸️ **Distributed Systems** — building scalable infrastructure                                                     
 🧬 **Neural Indexing & Retrieval** — leveraging embedding models and vector search for smarter queries  
 
 ---
