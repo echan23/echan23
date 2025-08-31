@@ -11,13 +11,10 @@ I'm a Computer Science major at the University of Maryland, College Park, passio
   🛠️ `React`, `Flask`, `AWS Lambda`, `MySQL (RDS)`, `BeautifulSoup`  
   📦 Deployed via Serverless Framework & S3  
 
-- **InterviewLab (coming soon)**  
+- **InterviewLab.dev**  
   A CoderPad-style platform with GPT-4o support for code hints and real-time collaboration.  
   🛠️ `Go`, `Python`, `Redis`, `PostgreSQL`, `Docker`, `AWS ECS`, `WebSockets`  
 
-- **Redis-Inspired Key-Value Store**  
-  A multithreaded C++ server supporting basic Redis commands with custom TCP protocol.  
-  🛠️ `C++`, `std::thread`, `mutex`, `Sockets`
 - **and more to come!**
 ---
 
