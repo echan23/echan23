@@ -1,6 +1,4 @@
-Hey there, I'm Edward
-
-I'm a Computer Science major at the University of Maryland, College Park. I’m interested in building scalable backend systems, real-time applications, and AI-powered tools.
+Hey there, I'm Edward, a Computer Science major at the University of Maryland, College Park. I’m interested in building scalable backend systems, real-time applications, and AI-powered tools.
 
 My Favorite Projects
 
@@ -13,14 +11,12 @@ InterviewLab.dev
 A CoderPad-style platform with GPT-4o support for code hints and real-time collaboration.
 Technologies: Go, Python, Redis, PostgreSQL, Docker, AWS ECS, WebSockets
 
-And more to come
+And more to come!
 
 Currently Learning
 
 LLMOps and RAG systems: fine-tuning, orchestration, and evaluation with PyTorch, LangChain, and vector stores
-
 Distributed systems: building scalable infrastructure
-
 Neural indexing and retrieval: embedding models and vector search for smarter queries
 
 Reach Me
