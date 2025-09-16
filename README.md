@@ -23,4 +23,4 @@ Email: edwchan7529@gmail.com
 
 LinkedIn: linkedin.com/in/edchan23
 
-Portfolio: edchan23.github.io
+Portfolio: https://edward-chan.vercel.app/
