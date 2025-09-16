@@ -17,8 +17,10 @@ LLMOps & RAG systems — fine-tuning, orchestration, and evaluation with PyTorch
 Distributed systems — building scalable infrastructure
 Neural indexing & retrieval — embedding models and vector search for smarter queries
 
-Reach Me:
+Reach Me
 
 Email: edwchan7529@gmail.com
+
 LinkedIn: linkedin.com/in/edchan23
+
 Portfolio: edchan23.github.io
