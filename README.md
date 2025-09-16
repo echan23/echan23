@@ -1,6 +1,4 @@
-Hey there, I'm Edward
-
-I’m a Computer Science major at the University of Maryland, College Park.
+Hey there, I'm Edward, a Computer Science major at the University of Maryland, College Park.
 I’m interested in building scalable backend systems, real-time applications, and AI-powered tools.
 
 My Favorite Projects:
