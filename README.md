@@ -3,13 +3,11 @@ I’m interested in building scalable backend systems, real-time applications, a
 
 My Favorite Projects:
 
-TerpBites.net
-A full-stack web app that provides real-time nutritional data from UMD Dining Services.
-Technologies: React, Flask, AWS Lambda, MySQL (RDS), BeautifulSoup
-
-InterviewLab.dev
-A CoderPad-style platform with GPT-4o support for code hints and real-time collaboration.
+InterviewLab.dev - A CoderPad-style platform with GPT-4o support for code hints and real-time collaboration.
 Technologies: Go, Python, Redis, PostgreSQL, Docker, AWS ECS, WebSockets
+
+TerpBites.net - A full-stack web app that provides real-time nutritional data from UMD Dining Services.
+Technologies: React, Flask, AWS Lambda, MySQL (RDS), BeautifulSoup
 
 And more to come!
 
