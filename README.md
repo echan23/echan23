@@ -1,37 +1,32 @@
-# 👋 Hey there, I'm Edward!
+Hey there, I'm Edward
 
-I'm a Computer Science major at the University of Maryland, College Park, passionate about building scalable backend systems, real-time apps, and AI-powered tools.
+I'm a Computer Science major at the University of Maryland, College Park. I’m interested in building scalable backend systems, real-time applications, and AI-powered tools.
 
----
+My Favorite Projects
 
-## 🔭 My Favorite Projects
+TerpBites.net
+A full-stack web app that provides real-time nutritional data from UMD Dining Services.
+Technologies: React, Flask, AWS Lambda, MySQL (RDS), BeautifulSoup
+Deployed with Serverless Framework and S3
 
-- **TerpBites.net**  
-  A full-stack web app providing real-time nutritional data from UMD Dining Services.  
-  🛠️ `React`, `Flask`, `AWS Lambda`, `MySQL (RDS)`, `BeautifulSoup`  
-  📦 Deployed via Serverless Framework & S3  
+InterviewLab.dev
+A CoderPad-style platform with GPT-4o support for code hints and real-time collaboration.
+Technologies: Go, Python, Redis, PostgreSQL, Docker, AWS ECS, WebSockets
 
-- **InterviewLab.dev**  
-  A CoderPad-style platform with GPT-4o support for code hints and real-time collaboration.  
-  🛠️ `Go`, `Python`, `Redis`, `PostgreSQL`, `Docker`, `AWS ECS`, `WebSockets`  
+And more to come
 
-- **and more to come!**
----
+Currently Learning
 
-## 🌱 Currently Learning
+LLMOps and RAG systems: fine-tuning, orchestration, and evaluation with PyTorch, LangChain, and vector stores
 
-🧠 **LLMOps & RAG Systems** — fine-tuning, orchestrating, and evaluating LLMs with `PyTorch`, `LangChain`, and vector stores  
-🕸️ **Distributed Systems** — building scalable infrastructure                                                     
-🧬 **Neural Indexing & Retrieval** — leveraging embedding models and vector search for smarter queries  
+Distributed systems: building scalable infrastructure
 
----
+Neural indexing and retrieval: embedding models and vector search for smarter queries
 
-## 📫 Reach Me
+Reach Me
 
-- Email: edwchan7529@gmail.com  
-- LinkedIn: [linkedin.com/in/edchan23](https://www.linkedin.com/in/edchan23/)  
-- Portfolio: [edchan23.github.io](https://edchan23.github.io)  
+Email: edwchan7529@gmail.com
 
----
+LinkedIn: linkedin.com/in/edchan23
 
-Thanks for visiting! Feel free to check out my pinned projects or reach out if you’d like to collaborate 👇
+Portfolio: edchan23.github.io
