@@ -1,11 +1,10 @@
 Hey there, I'm Edward, a Computer Science major at the University of Maryland, College Park. I’m interested in building scalable backend systems, real-time applications, and AI-powered tools.
 
-My Favorite Projects
+My Favorite Projects:
 
 TerpBites.net
 A full-stack web app that provides real-time nutritional data from UMD Dining Services.
 Technologies: React, Flask, AWS Lambda, MySQL (RDS), BeautifulSoup
-Deployed with Serverless Framework and S3
 
 InterviewLab.dev
 A CoderPad-style platform with GPT-4o support for code hints and real-time collaboration.
@@ -13,16 +12,14 @@ Technologies: Go, Python, Redis, PostgreSQL, Docker, AWS ECS, WebSockets
 
 And more to come!
 
-Currently Learning
+Currently Learning:
 
 LLMOps and RAG systems: fine-tuning, orchestration, and evaluation with PyTorch, LangChain, and vector stores
 Distributed systems: building scalable infrastructure
 Neural indexing and retrieval: embedding models and vector search for smarter queries
 
-Reach Me
+Reach Me:
 
 Email: edwchan7529@gmail.com
-
 LinkedIn: linkedin.com/in/edchan23
-
 Portfolio: edchan23.github.io
