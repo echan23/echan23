@@ -11,11 +11,6 @@ Technologies: React, Flask, AWS Lambda, MySQL (RDS), BeautifulSoup
 
 And more to come!
 
-Currently Learning:
-
-LLMOps & RAG systems — fine-tuning, orchestration, and evaluation with PyTorch, LangChain, and vector stores
-Distributed systems — building scalable infrastructure
-Neural indexing & retrieval — embedding models and vector search for smarter queries
 
 Reach Me
 
