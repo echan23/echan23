@@ -1,5 +1,4 @@
-Hi there, I'm Edward, a Computer Science major at the University of Maryland, College Park.
-Embark with me on my journey towards hitting 315 bench and becoming a CS chad...
+Hello stranger, you have had to fortune of stumbling across my github. Embark with me on my journey towards hitting 315 bench and becoming a CS chad...
 
 Reach Me
 
